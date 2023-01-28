@@ -1,7 +1,7 @@
 const User = require('./User');
 const Blog = require('./Blog');
 const Comment = require('./Comment');
-const { combineTableNames } = require('sequelize/types/utils');
+
 
 User.hasMany(Blog, {
     foreignKey: 'user_id',
