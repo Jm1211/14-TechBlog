@@ -2,31 +2,13 @@ header, .project:not(:last-child) {
     border-bottom: 1px solid #ccc;
   }
   
-  .no-button {
-    background: none;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-    color: #1b89bc;
-    text-decoration: none;
-    font-size: 100%;
-  }
   
-  .no-button:hover {
-    color: #065b83;
-    text-decoration: underline;
-  }
-  
-  
-  
-  #header {
-    background-color: #c77fedf3;
-  }
+ 
   
   #blog-box {
     border: solid;
     border-width: 5px;
-    border-color: black;
+    border-color: #070101;
     margin: 5px;
     background-color: #c77fedf3;
   }
@@ -50,7 +32,7 @@ header, .project:not(:last-child) {
   #comment-box {
     border-top: solid;
     border-top-width: 5px;
-    border-color: black;
+    border-color: #efe5e5;
     padding: 5px;
     background-color: #c77fedf3;
   }
@@ -63,3 +45,5 @@ header, .project:not(:last-child) {
     margin: 5px;
     background-color: #c77fedf3;
   }
+
+  
