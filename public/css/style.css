@@ -35,10 +35,12 @@ header, .project:not(:last-child) {
     border-color: #efe5e5;
     padding: 5px;
     background-color: #c77fedf3;
+    color: white;
   }
   
   #comment-btn {
     margin: 5px;
+    
   }
   
   #comment-div {
